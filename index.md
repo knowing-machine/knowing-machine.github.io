@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Site Name
+title: Knowing Machine
 ---
 <pre>
   'Machina Ratiocinatrix' is a term used by Norbert Wiener in the introduction to his 
